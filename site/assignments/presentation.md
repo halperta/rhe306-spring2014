@@ -3,9 +3,11 @@ layout: default
 title: Final Presentation
 root: "../"
 ---
-[Back to "Assignments"](index.html)
+[Back to "Assignments"](index.html)  
+[Back to "Schedule"](schedule.html)  
 
-In this Six- to eight-minute presentation, you will argue for a single position in your controversy. You can use any strategy that you like to try to make your argument, but you must include at least one ethical, on emotional, and one logical appeal. You must also refute at least one opposing argument. This assignment will be most advantageous to you if you use it as a test for the argument you plan to write in essay 3.  
+##Assignment Overview
+In this six- to eight-minute presentation, you will argue for a single position in your controversy. You can use any strategy that you like to try to make your argument, but you must include at least one ethical, on emotional, and one logical appeal. You must also refute at least one opposing argument. This assignment will be most advantageous to you if you use it as a test for the argument you plan to write in essay 3.  
 
 Information you might choose to discuss in your presentation includes: the forum you are speaking/writing for in essay 3, history of the controversy, different positions you encountered relating to the controversy, your position, and why it is the best one. Remember your purpose is to both *inform* and *persuade* your audience.  
 

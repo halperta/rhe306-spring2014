@@ -3,7 +3,9 @@ layout: default
 title: Essay 3
 root: "../"
 ---
-[Back to "Assignments"](index.html)
+[Back to "Assignments"](index.html)  
+[Back to "Schedule"](schedule.html)  
+[Revision guidelines for essay 3.2](assignments/revisions.html)  
 
 ##General
 Your purpose in this 5-7 page (1500-2100 word) essay is to write an article for a publication of your choice that advocates a position related to your controversy. You can choose any written medium, including a blog, an online magazine, a corporate journal, or a newspaper. In the first (longer) part of the essay, you will write an opinion article (approx. 1000-1500 words) in which you advocate for a particular position in your controversy. In the second part of the essay (500 to 1100 words), you will analyze your own rhetorical strategies, writing to convince me that you have constructed a successful and appropriate argument.

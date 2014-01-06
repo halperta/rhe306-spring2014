@@ -6,23 +6,22 @@ title: Syllabus
 ## Course Information
 
 **Course Name:** Rhetoric & Writing  
-**Course Number:** RHE 306  
-**Semester:** Fall 2013  
-  
-**Time:** Tues/Thurs 12:30 - 2:00  
-**Room:** MEZ B0.302  
+**Course Number:** RHE 306 (44805)  
+**Semester:** Spring 2014  
+**Time:** Tues/Thurs 11:00 - 12:30  
+**Room:** MEZ 2.118    
 
 
 ## Instructor Contact Information
 [Hannah Alpert-Abrams](http://www.halperta.com)  
-**office hours:** Weds 9:30am-11am and Thurs 9:30am - 11am    
+**office hours:** Weds 9:30am-11am and Thurs 9:30am - 11am  
 **office:** FAC16  
 **email:** halperta@gmail.com  
-**[cv](pdf/AlpertAbramsCV.pdf)** 
+**[download cv](documents/alpertAbramsCV.pdf)** 
 
 ## Syllabus and Text
 
-This page offers a brief summary of the syllabus. The [complete syllabus](pdf/RHE306syllabus2013.pdf) is also available on this website.
+This page offers a brief summary of the syllabus. The [complete syllabus](documents/rhe306-syllabus.pdf) is also available on this website.
 
 _Textbooks_
 
@@ -33,16 +32,16 @@ _Textbooks_
 ##Coursework
 You will be graded on the following assignments this term:
 
-	Paper 1.1:           5%             [due: Thursday 10-3]
-	Paper 1.2:          10%             [due: Thursday 10-10]
-	Paper 2.1:          10%             [due: Tuesday 10-29]
-	Paper 2.2:          15%             [due: Tuesday 11-5]
-	Paper 3.1:          15%             [due: Thursday 11-21]
-	Paper 3.2:          15%             [due: Thursday 11-28]
-	Research Summaries: 20%
+	Essay 1.1:           5%   
+	Essay 1.2:          10%    
+	Essay 2.1:          10%   
+	Essay 2.2:          15%  
+	Essay 3.1:          15%  
+	Essay 3.2:          15%  
+	Research Journal: 20%  
 	Final Presentation: 10%  
-	Peer reviews: Mandatory
-	Participation: Invaluable
+	Peer reviews: Mandatory  
+	Participation: Invaluable  
 	
 ###Major Assignments
 
@@ -52,21 +51,35 @@ Students will write three essays ranging from 4-7 pages each (1.1, 2.1, 2.3) and
 
 This class will use the university plus/minus grading scale for assignment and final grades. 
 
-	A 	4.0  
-	A- 	3.67  
-	B+ 	3.33  
-	B 	3.0  
-	B- 	2.67  
-	C+ 	2.33  
-	C 	2.0  
-	C- 	1.67  
-	D+ 	1.33  
-	D 	1.0  
-	D- 	0.67  
-	F 	0.0  
+A	=	94-100  
+A-	=	90-93  
+B+	=	87-89  
+B	=	84-86  
+B-	=	80-83  
+C+	=	77-79  
+C	=	74-76  
+C-	=	70-73  
+D+	=	67-69  
+D	=	64-66  
+D-	=	60-63  
+F	=	0-60  
+
 
 ###Late Work
 Late work is penalized at one third of a letter grade for each 24 hour period. Late submissions will not be accepted after five days.
+
+To be accepted, all Research Summaries and Essays must contain the following information:
+* Name (upper left corner)  
+* Date (upper left corner)  
+* Rhetoric 306 (upper left corner)  
+* Title: top center  
+* Research Summary Citation: below title, MLA format  
+* Essay citation: On final page, MLA format  
+* Page numbers  
+* Proper Formatting:  
+	* RS: single spaced, Times New Roman or Garamond fonts
+	* Essay: double-spaced, Times New Roman or Garamond fonts
+
 
 ##Attendance Policy
 

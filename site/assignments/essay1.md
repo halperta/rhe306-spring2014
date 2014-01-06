@@ -3,7 +3,9 @@ layout: default
 title: Essay 1
 root: "../"
 ---
-[Back to "Assignments"](index.html)
+[Back to "Assignments"](index.html)  
+[Back to "Schedule"](schedule.html)  
+[Revision guidelines for essay 1.2](assignments/revisions.html)  
 
 ##General
 In this 4-6 page essay (1200-1800 words), map out the various positions within your chosen controversy, stating clearly what those positions are and then highlighting the relationships among them. *Do not take a position.* Instead, your job is to articulate each position's most compelling arguments. Your purpose is to teach an educated but underinformed reader (your fellow students & teacher) about the state of the controversy. Your goal is to provide an unbiased lay of the land.  
