@@ -7,7 +7,7 @@ This schedule shows deadlines for all graded assignments throughout the semester
 ## Unit 1: Describing a controversy and mapping the various positions within it. 
 
 **T   1-14**  
-**Th 1-16**		Due: read intro & chapt 1, Sandel: What Money Can’t Buy  
+**Th 1-16**		Due: read intro, Sandel: What Money Can’t Buy  
 
 **T   1-21**	Due: [Wikipedia Worksheet](documents/wikipedia.docx) printed, in class  
 **Th 1-23**		Due: [RS1](assignments/r1.html) printed, in class  
