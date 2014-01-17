@@ -4,7 +4,7 @@ title: Revisions
 root: "../"
 ---
 [Back to "Assignments"](index.html)  
-[Back to "Schedule"](schedule.html)  
+[Back to "Schedule"]({{ page.root }}schedule.html)  
 
 ##Assignment Overview
 One of the primary objectives of this course is the development of efficient and effective writing methods. Revision is a key aspect of the writing process: in this course, you will be required to revise essays 1, 2, and 3.  

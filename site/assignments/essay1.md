@@ -4,7 +4,7 @@ title: Essay 1
 root: "../"
 ---
 [Back to "Assignments"](index.html)  
-[Back to "Schedule"](schedule.html)  
+[Back to "Schedule"]({{ page.root }}schedule.html)  
 [Revision guidelines for essay 1.2](assignments/revisions.html)  
 
 ##General
@@ -30,6 +30,7 @@ Your essay will be evaluated on:
 * Effectiveness of introduction
 * Compreheniveness of historical context
 * Comprehensiveness of position descriptions
+* Successful integration of multiple viewpoints
 
 ###Minimum Requirements
 **To earn a C or above, your essay must meet these requirements:**

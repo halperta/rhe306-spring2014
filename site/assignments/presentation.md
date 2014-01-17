@@ -4,7 +4,7 @@ title: Final Presentation
 root: "../"
 ---
 [Back to "Assignments"](index.html)  
-[Back to "Schedule"](schedule.html)  
+[Back to "Schedule"]({{ page.root }}schedule.html)  
 
 ##Assignment Overview
 In this six- to eight-minute presentation, you will argue for a single position in your controversy. You can use any strategy that you like to try to make your argument, but you must include at least one ethical, on emotional, and one logical appeal. You must also refute at least one opposing argument. This assignment will be most advantageous to you if you use it as a test for the argument you plan to write in essay 3.  

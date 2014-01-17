@@ -4,7 +4,7 @@ title: Research Proposal
 root: "../"
 ---
 [Back to "Assignments"](index.html)  
-[Back to "Schedule"](schedule.html)
+[Back to "Schedule"]({{ page.root }}schedule.html)  
 
 ##Assignment Overview
 Throughout this course, you will be required to select a single controversy, conduct research on your controversy, and write a series of essays related to your research. By the end of the semester, you will be an expert in the topic and controversy of your choice.  

@@ -4,7 +4,7 @@ title: Essay 3
 root: "../"
 ---
 [Back to "Assignments"](index.html)  
-[Back to "Schedule"](schedule.html)  
+[Back to "Schedule"]({{ page.root }}schedule.html)  
 [Revision guidelines for essay 3.2](assignments/revisions.html)  
 
 ##General
