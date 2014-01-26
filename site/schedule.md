@@ -10,7 +10,7 @@ This schedule shows deadlines for all graded assignments throughout the semester
 **Th 1-16**		Due: read intro, Sandel: What Money Can’t Buy  
 
 **T   1-21**	Due: [Wikipedia Worksheet](documents/wikipedia.docx) printed, in class  
-**Th 1-23**		Due: [RS1](assignments/r1.html) printed, in class  
+**Th 1-23**		Due: [RS1](assignments/r1.html) printed, in class and by canvas by 11 am.    
 **Fr  1-24**	*RS1 Edits Due: via canvas by 10am*  
 
 **T   1-28**	  

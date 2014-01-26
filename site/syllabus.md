@@ -14,7 +14,7 @@ title: Syllabus
 
 ## Instructor Contact Information
 [Hannah Alpert-Abrams](http://www.halperta.com)  
-**office hours:** Weds 1pm-2:30pm and Thurs 9:30am - 11am  
+**office hours:** Weds 1pm-2:30pm, Thurs 9:30am - 11am and by appointment  
 **office:** FAC16  
 **email:** halperta@gmail.com  
 **[download cv](documents/alpertAbramsCV.pdf)** 
