@@ -12,7 +12,7 @@ Throughout this course, you will be required to select a single controversy, con
 This first assignment asks you to map out the shape of your research. The assignment has two parts: a worksheet that you will discuss with me at a meeting, and a spreadsheet which you will use to keep track of your research throughout the semester, and which you will turn in with each essay.  
 
 You can download the proposal worksheet here: [proposal]({{ page.root }}documents/proposal.docx)  
-You can download the research spreadsheet here: [spreadsheet]({{ page.root }}documents/Sources.xlsx)
+You can download the research spreadsheet here: [spreadsheet]({{ page.root }}documents/sources.xlsx)
 
 ##Evaluation
 This assignment has two parts. The proposal is worth 60 percent of the grade and the spreadsheet is worth 40 percent of the grade. The parts will be evaluated based on the following criteria:

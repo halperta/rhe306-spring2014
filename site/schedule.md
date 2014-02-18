@@ -17,27 +17,28 @@ This schedule shows deadlines for all graded assignments throughout the semester
 **Th 1-30**		No class: student meetings. Due: [Research proposal and source spreadsheet](assignments/proposal.html) via canvas by 10am   
 
 
-**T   2-4**		Due: [RS2](assignments/r3.html) via canvas by 10am  
-**Th 2-6**		Due: [RS3](assignments/r3.html) via canvas by 10am  
+**T   2-4**		  
+**Th 2-6**		<span style="color: red">Due:</span> [RS2](assignments/r3.html) <span style="color: red">via canvas by 10am</span> (Note change due to weather)  
 
-**T   2-11**	Due: [Essay 1.1](assignments/essay1.html) draft printed, in class   
-**Th 2-13 **	Due: Essay 1.1 via canvas by 10am    
+**T   2-11**	<span style="color: red">Due:</span> [RS3](assignments/r3.html) <span style="color: red">via canvas by 10am</span> (Note change due to weather)   
+**Th 2-13 **	<span style="color: red">Due:</span> [Essay 1.1](assignments/essay1.html) <span style="color: red">draft printed, in class</span> (Note change due to weather)    
  
-## Unit 2: Analyzing a position within a controversy.      
+**T   2-18**    <span style="color: red">Due: Essay 1.1 via canvas by 10am</span> (Note change due to weather)     
 
-**T   2-18**   
-**Th 2-20 **	Due: [Essay 1.2](assignments/revisions.html) via canvas by 10am  
+## Unit 2: Analyzing a position within a controversy.     
 
-**T   2-25**  	Due: Watch [episode 9 of Michael Sandel's Justice MOOC](http://www.justiceharvard.org/2011/02/episode-09/#watch)  
-**Th 2-27 **   
+**Th 2-20 **	  
 
-**T   3-4**		[RS4](assignments/r4.html) Due  
-**Th 3-6 **		[RS5](assignments/r5.html) Due  
+**T   2-25**  	  
+**Th 2-27 **    <span style="color: red">Due:</span> [Essay 1.2](assignments/revisions.html) <span style="color: red">via canvas by 10am</span> (Note change due to weather)    
+
+**T   3-4**		  
+**Th 3-6 **		[RS4](assignments/r4.html) <span style="color: red">Due</span>  (Note change due to weather)  
 
 **T   3-11**	SPRING BREAK  
 **Th 3-13**		SPRING BREAK  
 
-**T   3-18**  
+**T   3-18**  	[RS5](assignments/r5.html) <span style="color: red">Due</span> (Note change due to weather)    
 **Th 3-20 **  
 
 **T   3-25**	Due: [Essay 2.1](assignments/essay2.html) Draft, in class, printed  
@@ -46,10 +47,10 @@ This schedule shows deadlines for all graded assignments throughout the semester
 ## Unit 3: Advocating a position within a controversy   
 
 
-**T   4-1**		No class: meetings. Due: revision goals via canvas by 10am  
-**Th 4-3 **		Due: [Essay 2.2](assignments/revisions.html) (via Canvas, by 10am)  
+**T   4-1**		  
+**Th 4-3 **		No class: meetings. Due: revision goals via canvas by 10am  
 
-**T   4-8**   	  
+**T   4-8**   	Due: [Essay 2.2](assignments/revisions.html) (via Canvas, by 10am)   
 **Th 4-10 **   
 
 **T   4-15**	[Unit 3 Presentations](assignments/presentation.html)  
